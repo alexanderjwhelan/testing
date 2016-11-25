@@ -1,0 +1,373 @@
+[
+  {
+    "released_date": "20160511", 
+    "overall_handling_caveats": [], 
+    "id": "20160511|fromsiginttohuminttosigint(throughhumint)part2", 
+    "document_date": "2005-03-11 00:00:00", 
+    "codewords": [], 
+    "agency": [
+      "NSA"
+    ], 
+    "sub_paragraphs_classifications": [
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": null, 
+        "paragraph_text": "dynamic page -- highest possible classification is ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Top Secret", 
+        "paragraph_text": "top secret // si / tk // rel to usa aus can gbr nzl ", 
+        "paragraph_relto": [
+          "United Kingdom", 
+          "United States", 
+          "New Zealand", 
+          "Australia", 
+          "Canada"
+        ]
+      }, 
+      {
+        "paragraph_handling_caveats": [
+          "fouo"
+        ], 
+        "paragraph_classification": "Unclassified", 
+        "paragraph_text": "(u//fouo) from sigint to humint to sigint (through humint) -- conclusion from: eric fair intelligence analysis intern run date: 03/11/2005 here's the conclusion of the story of a sigint'er who went to iraq to perform humint. (click ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "here for part 1.) (s) ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) iraq had been an overwhelming experience and it was difficult for me to know what i was to do once i got home. fortunately, |\t, directors of the ia skill community, had stayed in touch with me and welcomed me back with open arms. i hadn't yet taken the time to think how my experience with humint in iraq would benefit me in the world of sigint, but it became apparent once i was assigned my first tour here at nsa. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) i was assigned to s2e22 (the iraq branch) and placed on a team responsible for sorting through humint reports and finding ways to develop sigint leads. the reports that i read through, often summaries of interrogations and interviews from iraq, were the same reports i had been writing for the last six months. i was able to read the reports and get a feel for when an interrogator was on to something important, or when he or she may have been following a false lead. i could sense when a source quoted in a report may have been holding back, or more often than not, may have been exaggerating his access and knowledge. it allowed me to sort through the large volume of reports more efficiently and kept me involved in the world of humint. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) my exposure at s2e22 to the developmental side of sigint was a tremendous challenge to me. though frustrating at first to be thrown into an assignment and forced to quickly learn a variety of complicated technologies and tools, i was fortunate enough to fall under the tutelage of two experienced analysts and benefit tremendously from their advice and direction. there were days of course when i felt overwhelmed and thought i had no chance of ever understanding what was actually expected of me. the daily task of sorting through endless humint reports in order to develop what at times seemed like insignificant results often became a test of my patience, but the opportunity to take what i had learned in iraq, and see it developed into intelligence here at nsa was invaluable. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) in many ways, knowing what i know now about how crucial humint can be to the sigint process, i wish i could go back to iraq and work again as an interrogator. there are still a number of walls that need to be broken down between the two disciplines for them to work more effectively together. humint needs to have a better understanding of the specifics that will enable the sigint process, and sigint needs to continue to gain a better understanding of just how difficult humint can be. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) as the two disciplines continue to find common ground, and as they continue to understand what they need to do to make one another more effective, it is exciting to think how much more dynamic the collection process can become. i am grateful to have had the opportunity to be involved in these two types of collection, and though i will not recommend anyone resign their nsa position, i can certainly say that finding ways to learn how other intelligence disciplines affect the work we do here at nsa is an invaluable experience. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [
+          "fouo"
+        ], 
+        "paragraph_classification": "Unclassified", 
+        "paragraph_text": "\"(u//fouo) sidtoday articles may not be republished or reposted outside nsanet without the consent of s0121 (dl sid comms).\" dynamic page -- highest possible classification is ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Top Secret", 
+        "paragraph_text": "top secret // si / tk // rel to usa aus can gbr nzl derived from: nsa/cssm 1-52, dated 08 jan 2007 declassify on: 20320108 ", 
+        "paragraph_relto": [
+          "United Kingdom", 
+          "United States", 
+          "New Zealand", 
+          "Australia", 
+          "Canada"
+        ]
+      }
+    ], 
+    "pdf_paths": [
+      "2005-03-11-SIDToday-From-SIGINT-to-HUMINT-to.pdf"
+    ], 
+    "overall_classification": null, 
+    "description": "This SIDToday article from 11 March 2005 details the experiences of Eric Fair, a US interrogator in Iraq who went on to work for the NSA. In his memoirs, published in 2016, Fair admits self-censoring in order not to disclose his moral qualms to colleagues: see the Intercept article The Secret NSA Diary of an [\u2026]", 
+    "plain_text": "\ufeffDYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS\r\n\r\nTOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL\r\n\r\n(U//FOUO) From SIGINT to HUMINT to SIGINT (through HUMINT) --\r\nconclusion\r\n\r\nFROM: Eric Fair\r\nIntelligence Analysis Intern\r\nRun Date: 03/11/2005\r\n\r\nHere's the conclusion of the story of a SIGINT'er who went to Iraq to perform HUMINT. (Click\r\nHERE for part 1.) (S)\r\n\r\n(S) Iraq had been an overwhelming experience and it was difficult for me to know what I was to\r\ndo once I got home. Fortunately, |\t, directors of the IA skill\r\n\r\ncommunity, had stayed in touch with me and welcomed me back with open arms. I hadn't yet\r\ntaken the time to think how my experience with HUMINT in Iraq would benefit me in the world\r\nof SIGINT, but it became apparent once I was assigned my first tour here at NSA.\r\n\r\n(S) I was assigned to S2E22 (the Iraq Branch) and placed on a team responsible for sorting\r\nthrough HUMINT reports and finding ways to develop SIGINT leads. The reports that I read\r\nthrough, often summaries of interrogations and interviews from Iraq, were the same reports I\r\nhad been writing for the last six months. I was able to read the reports and get a feel for when\r\nan interrogator was on to something important, or when he or she may have been following a\r\nfalse lead. I could sense when a source quoted in a report may have been holding back, or more\r\noften than not, may have been exaggerating his access and knowledge. It allowed me to sort\r\nthrough the large volume of reports more efficiently and kept me involved in the world of\r\nHUMINT.\r\n\r\n(S) My exposure at S2E22 to the developmental side of SIGINT was a tremendous challenge to\r\nme. Though frustrating at first to be thrown into an assignment and forced to quickly learn a\r\nvariety of complicated technologies and tools, I was fortunate enough to fall under the tutelage\r\nof two experienced analysts and benefit tremendously from their advice and direction. There\r\nwere days of course when I felt overwhelmed and thought I had no chance of ever\r\nunderstanding what was actually expected of me. The daily task of sorting through endless\r\nHUMINT reports in order to develop what at times seemed like insignificant results often became\r\na test of my patience, but the opportunity to take what I had learned in Iraq, and see it\r\ndeveloped into intelligence here at NSA was invaluable.\r\n\r\n(S) In many ways, knowing what I know now about how crucial HUMINT can be to the SIGINT\r\nprocess, I wish I could go back to Iraq and work again as an interrogator. There are still a\r\nnumber of walls that need to be broken down between the two disciplines for them to work more\r\neffectively together. HUMINT needs to have a better understanding of the specifics that will\r\nenable the SIGINT process, and SIGINT needs to continue to gain a better understanding of just\r\nhow difficult HUMINT can be.\r\n\r\n(S) As the two disciplines continue to find common ground, and as they continue to understand\r\nwhat they need to do to make one another more effective, it is exciting to think how much more\r\ndynamic the collection process can become. I am grateful to have had the opportunity to be\r\ninvolved in these two types of collection, and though I will not recommend anyone resign their\r\nNSA position, I can certainly say that finding ways to learn how other intelligence disciplines\r\naffect the work we do here at NSA is an invaluable experience.\r\n\r\n\"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet\r\nwithout the consent of S0121 (DL sid comms).\"\r\n\r\nDYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS\r\n\r\nTOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL\r\nDERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108", 
+    "sigads": [], 
+    "overall_relto": [], 
+    "countries_mentioned": [
+      "Iraq (IRQ/IQ)", 
+      "United States (USA/US)"
+    ], 
+    "link": "https://edwardsnowden.com/2016/05/15/from-sigint-to-humint-to-sigint-through-humint-part-2/", 
+    "document_topic": [
+      "SIDtoday"
+    ], 
+    "pub_date": "Sun, 15 May 2016 19:42:39 +0000", 
+    "article_links": [
+      "https://theintercept.com/2016/05/11/the-secret-nsa-diary-of-an-abu-ghraib-interrogator/"
+    ], 
+    "categories": [
+      "Revealed documents", 
+      "eric fair", 
+      "humint", 
+      "interrogator", 
+      "iraq", 
+      "nsa_orig", 
+      "s2e22", 
+      "sidtoday"
+    ], 
+    "title": "From SIGINT to HUMINT to SIGINT (through HUMINT) \u2013 part 2", 
+    "doc_text": "\ufeffDYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS\r\n\r\nTOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL\r\n\r\n(U//FOUO) From SIGINT to HUMINT to SIGINT (through HUMINT) --\r\nconclusion\r\n\r\nFROM: Eric Fair\r\nIntelligence Analysis Intern\r\nRun Date: 03/11/2005\r\n\r\nHere's the conclusion of the story of a SIGINT'er who went to Iraq to perform HUMINT. (Click\r\nHERE for part 1.) (S)\r\n\r\n(S) Iraq had been an overwhelming experience and it was difficult for me to know what I was to\r\ndo once I got home. Fortunately, |\t, directors of the IA skill\r\n\r\ncommunity, had stayed in touch with me and welcomed me back with open arms. I hadn't yet\r\ntaken the time to think how my experience with HUMINT in Iraq would benefit me in the world\r\nof SIGINT, but it became apparent once I was assigned my first tour here at NSA.\r\n\r\n(S) I was assigned to S2E22 (the Iraq Branch) and placed on a team responsible for sorting\r\nthrough HUMINT reports and finding ways to develop SIGINT leads. The reports that I read\r\nthrough, often summaries of interrogations and interviews from Iraq, were the same reports I\r\nhad been writing for the last six months. I was able to read the reports and get a feel for when\r\nan interrogator was on to something important, or when he or she may have been following a\r\nfalse lead. I could sense when a source quoted in a report may have been holding back, or more\r\noften than not, may have been exaggerating his access and knowledge. It allowed me to sort\r\nthrough the large volume of reports more efficiently and kept me involved in the world of\r\nHUMINT.\r\n\r\n(S) My exposure at S2E22 to the developmental side of SIGINT was a tremendous challenge to\r\nme. Though frustrating at first to be thrown into an assignment and forced to quickly learn a\r\nvariety of complicated technologies and tools, I was fortunate enough to fall under the tutelage\r\nof two experienced analysts and benefit tremendously from their advice and direction. There\r\nwere days of course when I felt overwhelmed and thought I had no chance of ever\r\nunderstanding what was actually expected of me. The daily task of sorting through endless\r\nHUMINT reports in order to develop what at times seemed like insignificant results often became\r\na test of my patience, but the opportunity to take what I had learned in Iraq, and see it\r\ndeveloped into intelligence here at NSA was invaluable.\r\n\r\n(S) In many ways, knowing what I know now about how crucial HUMINT can be to the SIGINT\r\nprocess, I wish I could go back to Iraq and work again as an interrogator. There are still a\r\nnumber of walls that need to be broken down between the two disciplines for them to work more\r\neffectively together. HUMINT needs to have a better understanding of the specifics that will\r\nenable the SIGINT process, and SIGINT needs to continue to gain a better understanding of just\r\nhow difficult HUMINT can be.\r\n\r\n(S) As the two disciplines continue to find common ground, and as they continue to understand\r\nwhat they need to do to make one another more effective, it is exciting to think how much more\r\ndynamic the collection process can become. I am grateful to have had the opportunity to be\r\ninvolved in these two types of collection, and though I will not recommend anyone resign their\r\nNSA position, I can certainly say that finding ways to learn how other intelligence disciplines\r\naffect the work we do here at NSA is an invaluable experience.\r\n\r\n\"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet\r\nwithout the consent of S0121 (DL sid comms).\"\r\n\r\nDYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS\r\n\r\nTOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL\r\nDERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108", 
+    "pdf": ["https://edwardsnowden.com/wp-content/uploads/2016/05/2005-03-11-SIDToday-From-SIGINT-to-HUMINT-to.pdf"]
+  }, 
+  {
+    "released_date": "20160511", 
+    "overall_handling_caveats": [], 
+    "id": "20160511|fromsiginttohuminttosigint(throughhumint)part1", 
+    "document_date": "2005-03-10 00:00:00", 
+    "codewords": [], 
+    "agency": [
+      "NSA"
+    ], 
+    "sub_paragraphs_classifications": [
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": null, 
+        "paragraph_text": "dynamic page -- highest possible classification is ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Top Secret", 
+        "paragraph_text": "top secret // si / tk // rel to usa aus can gbr nzl ", 
+        "paragraph_relto": [
+          "United Kingdom", 
+          "United States", 
+          "New Zealand", 
+          "Australia", 
+          "Canada"
+        ]
+      }, 
+      {
+        "paragraph_handling_caveats": [
+          "fouo"
+        ], 
+        "paragraph_classification": "Unclassified", 
+        "paragraph_text": "(u//fouo) from sigint to humint to sigint (through humint) -- part 1 from: eric fair intelligence analysis intern run date: 03/10/2005 ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "how a sigint'er became an interrogator in iraq, and what he learned as a result. (s) ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) in december of 2003, just weeks into my first tour at the nsa and against the advice of a number of people, i resigned my position as an intelligence analyst and took a job as a contractor in iraq. having watched my old unit, the 101st, take casualties in mosul, i found myself unable to resist the urge to be more closely involved in the conflict. my years as a police officer, combined with my security clearance and some formal humint training in the army, opened the door for me to be hired on as one of the first few civilians assigned to abu ghraib prison as an interrogator. though my only goal at the time was to get to iraq, it turned out to be an incredible introduction to the discipline of humint that in turn would become a great tool for me in my career with sigint. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) though much has been written and spoken about the dreadful conditions at abu ghraib, what became readily apparent to me as i looked out at the huge collection of iraqi prisoners was the vast goldmine of intelligence available to be gathered. it was an exciting realization for me that the faceless voices i had listened to as a linguist in the army were now standing in front of me in the flesh. it was a once in a lifetime opportunity for anyone in the intelligence field. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) i had always been limited to gathering only the information a target would reveal in a conversation, searching for small clues and hints, never having the ability to pry deeper when a target seemed to have vital information. now i would have the opportunity to get to know these targets, ask them questions about their personal lives, gain a better understanding of who they were, and actually design and tailor specific approaches for each individual. it was an opportunity never afforded to me in sigint and i was excited to get started. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) the overwhelming number of detainees provided us an endless supply of interrogations to conduct. my interrogations lasted anywhere from 2 minutes to 2 hours and i conducted as many as i could in a day. the harder i worked, the quicker the days went by and the closer i got to home. though mortar, rocket and small arms attacks remained constant, the insurgency hadn't yet gathered full steam and the hope was to cut it off before it got worse. it was apparent however that we were bringing in more prisoners than we could process, and as the numbers grew, so too did the ominous feeling that things were going downhill. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) in early march of 2004, in an attempt to sort through the detainees more efficiently and prevent abu ghraib from becoming overcrowded, i began traveling between abu ghraib and camp st. mere in fallujah in order to set up a division level interrogation facility with the 82nd airborne (abn). because the numbers at the facility in fallujah were more manageable, i was able to spend more time with fewer detainees. i focused on building relationships and found that i would get favorable reactions when i attempted to use my rusty arabic skills. detainees found themselves laughing at my terrible accent and limited iraqi vocabulary and it became a great tool for me to break the tension and open doors. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) gathering actual intelligence in the interrogations was not easy, and there were far more failure than success stories. most detainees were scared and apprehensive, and it was all i could do to get them talking about basic biographical information let alone their knowledge of the insurgency. when the success stories would come, it was often because the detainee was tired and worn out from his ordeal and hoped to gain something by providing information. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) my most successful interrogation was with a man who sat down in my interrogation booth, asked for a cigarette and something sweet, and without provocation spent the next 3 days with me naming names, locating weapon caches, cataloging groups involved in attacks, and providing specific information about future operations. i began to realize that the collection of humint could be just as frustrating as the collection of sigint. as with sigint, there were a variety of approaches i could use and a number of tools at my disposal, but if the target chose not to cooperate, there was only so much i could accomplish. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) as my arabic and interviewing skills improved, and as more and more contractors resigned their positions and headed home, a number of doors opened up for me in iraq. after surviving the uprising in fallujah in april, and the increasing number of ied* attacks on the road between camp st. mere and abu ghraib, i was transferred back to baghdad to work the front gates of camp victory. my job there was less about interrogations and more about getting to know all the workers who lined up outside every day to come on base and work for the coalition. i looked to make friends by handing out cigarettes and chocolate and in return got help identifying strangers in the community who warranted closer attention. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) i spent my final two months in iraq getting to know iraqis. i learned about their lives under saddam, their experiences in the iran-iraq war, their views of sunni, shia, christian, kurd and jew, their lives now with and without electricity, and their cautious hope for the changeover and election that was to come. i learned the difference between the privilege and the hardship that membership in the baath party offered, the lure of a few dollars to risk working with americans, the variety of sermons in the thousands of mosques, and the motivation behind placing a bomb on the street for a few hundred american dollars. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Secret", 
+        "paragraph_text": "(s) the countless hours i spent outside the gates talking with iraqis from a variety of backgrounds became the most valuable experience of my life. but as the number of close calls continued to rise, and as i found myself missing my wife more and more, i decided in june of 2004 that six months in iraq had been enough and it was time to come home. ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Unclassified", 
+        "paragraph_text": "(u) read the conclusion of this article tomorrow! ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Unclassified", 
+        "paragraph_text": "(u) note: ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Unclassified", 
+        "paragraph_text": "(u) ied = improvised explosive device ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [
+          "fouo"
+        ], 
+        "paragraph_classification": "Unclassified", 
+        "paragraph_text": "\"(u//fouo) sidtoday articles may not be republished or reposted outside nsanet without the consent of s0121 (dl sid comms).\" dynamic page -- highest possible classification is ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Top Secret", 
+        "paragraph_text": "top secret // si / tk // rel to usa aus can gbr nzl derived from: nsa/cssm 1-52, dated 08 jan 2007 declassify on: 20320108 ", 
+        "paragraph_relto": [
+          "United Kingdom", 
+          "United States", 
+          "New Zealand", 
+          "Australia", 
+          "Canada"
+        ]
+      }
+    ], 
+    "pdf_paths": [
+      "2005-03-10-SIDToday-From-SIGINT-to-HUMINT-to.pdf"
+    ], 
+    "overall_classification": null, 
+    "description": "This SIDToday article from 10 March 2005 details the experiences of Eric Fair, a US interrogator in Iraq who went on to work for the NSA. In his memoirs, published in 2016, Fair admits self-censoring in order not to disclose his moral qualms to colleagues: see the Intercept article The Secret NSA Diary of an [\u2026]", 
+    "plain_text": "\ufeffDYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS\r\n\r\nTOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL\r\n\r\n(U//FOUO) From SIGINT to HUMINT to SIGINT (through HUMINT) --\r\npart 1\r\n\r\nFROM: Eric Fair\r\nIntelligence Analysis Intern\r\nRun Date: 03/10/2005\r\n\r\nHow a SIGINT'er became an interrogator in Iraq, and what he learned as a result. (S)\r\n\r\n(S) In December of 2003, just weeks into my first tour at the NSA and against the advice of a\r\nnumber of people, I resigned my position as an Intelligence Analyst and took a job as a\r\ncontractor in Iraq. Having watched my old unit, the 101st, take casualties in Mosul, I found\r\nmyself unable to resist the urge to be more closely involved in the conflict. My years as a police\r\nofficer, combined with my security clearance and some formal HUMINT training in the Army,\r\nopened the door for me to be hired on as one of the first few civilians assigned to Abu Ghraib\r\nprison as an interrogator. Though my only goal at the time was to get to Iraq, it turned out to\r\nbe an incredible introduction to the discipline of HUMINT that in turn would become a great tool\r\nfor me in my career with SIGINT.\r\n\r\n(S) Though much has been written and spoken about the dreadful conditions at Abu Ghraib,\r\nwhat became readily apparent to me as I looked out at the huge collection of Iraqi prisoners was\r\nthe vast goldmine of intelligence available to be gathered. It was an exciting realization for me\r\nthat the faceless voices I had listened to as a linguist in the Army were now standing in front of\r\nme in the flesh. It was a once in a lifetime opportunity for anyone in the intelligence field.\r\n\r\n(S) I had always been limited to gathering only the information a target would reveal in a\r\nconversation, searching for small clues and hints, never having the ability to pry deeper when a\r\ntarget seemed to have vital information. Now I would have the opportunity to get to know these\r\ntargets, ask them questions about their personal lives, gain a better understanding of who they\r\nwere, and actually design and tailor specific approaches for each individual. It was an\r\nopportunity never afforded to me in SIGINT and I was excited to get started.\r\n\r\n(S) The overwhelming number of detainees provided us an endless supply of interrogations to\r\nconduct. My interrogations lasted anywhere from 2 minutes to 2 hours and I conducted as many\r\nas I could in a day. The harder I worked, the quicker the days went by and the closer I got to\r\nhome. Though mortar, rocket and small arms attacks remained constant, the insurgency hadn't\r\nyet gathered full steam and the hope was to cut it off before it got worse. It was apparent\r\nhowever that we were bringing in more prisoners than we could process, and as the numbers\r\ngrew, so too did the ominous feeling that things were going downhill.\r\n\r\n(S) In early March of 2004, in an attempt to sort through the detainees more efficiently and\r\nprevent Abu Ghraib from becoming overcrowded, I began traveling between Abu Ghraib and\r\nCamp St. Mere in Fallujah in order to set up a Division level interrogation facility with the 82nd\r\nAirborne (ABN). Because the numbers at the facility in Fallujah were more manageable, I was\r\nable to spend more time with fewer detainees. I focused on building relationships and found that\r\nI would get favorable reactions when I attempted to use my rusty Arabic skills. Detainees found\r\nthemselves laughing at my terrible accent and limited Iraqi vocabulary and it became a great\r\ntool for me to break the tension and open doors.\r\n\r\n(S) Gathering actual intelligence in the interrogations was not easy, and there were far more\r\nfailure than success stories. Most detainees were scared and apprehensive, and it was all I could\r\ndo to get them talking about basic biographical information let alone their knowledge of the\r\ninsurgency. When the success stories would come, it was often because the detainee was tired\r\nand worn out from his ordeal and hoped to gain something by providing information.\r\n\r\n(S) My most successful interrogation was with a man who sat down in my interrogation booth,\r\nasked for a cigarette and something sweet, and without provocation spent the next 3 days with\r\n\r\nme naming names, locating weapon caches, cataloging groups involved in attacks, and providing\r\nspecific information about future operations. I began to realize that the collection of HUMINT\r\ncould be just as frustrating as the collection of SIGINT. As with SIGINT, there were a variety of\r\napproaches I could use and a number of tools at my disposal, but if the target chose not to\r\ncooperate, there was only so much I could accomplish.\r\n\r\n(S) As my Arabic and interviewing skills improved, and as more and more contractors resigned\r\ntheir positions and headed home, a number of doors opened up for me in Iraq. After surviving\r\nthe uprising in Fallujah in April, and the increasing number of IED* attacks on the road between\r\nCamp St. Mere and Abu Ghraib, I was transferred back to Baghdad to work the front gates of\r\nCamp Victory. My job there was less about interrogations and more about getting to know all the\r\nworkers who lined up outside every day to come on base and work for the coalition. I looked to\r\nmake friends by handing out cigarettes and chocolate and in return got help identifying\r\nstrangers in the community who warranted closer attention.\r\n\r\n(S) I spent my final two months in Iraq getting to know Iraqis. I learned about their lives under\r\nSaddam, their experiences in the Iran-Iraq war, their views of Sunni, Shia, Christian, Kurd and\r\nJew, their lives now with and without electricity, and their cautious hope for the changeover and\r\nelection that was to come. I learned the difference between the privilege and the hardship that\r\nmembership in the Baath party offered, the lure of a few dollars to risk working with Americans,\r\nthe variety of sermons in the thousands of mosques, and the motivation behind placing a bomb\r\non the street for a few hundred American dollars.\r\n\r\n(S) The countless hours I spent outside the gates talking with Iraqis from a variety of\r\nbackgrounds became the most valuable experience of my life. But as the number of close calls\r\ncontinued to rise, and as I found myself missing my wife more and more, I decided in June of\r\n2004 that six months in Iraq had been enough and it was time to come home.\r\n\r\n(U) Read the conclusion of this article tomorrow!\r\n\r\n(U) Note:\r\n\r\n(u) IED = Improvised explosive device\r\n\r\n\"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet\r\nwithout the consent of S0121 (DL sid comms).\"\r\n\r\nDYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS\r\nTOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL\r\nDERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108", 
+    "sigads": [], 
+    "overall_relto": [], 
+    "countries_mentioned": [
+      "Iran (IRN/IR)", 
+      "Iraq (IRQ/IQ)", 
+      "United States (USA/US)"
+    ], 
+    "link": "https://edwardsnowden.com/2016/05/15/from-sigint-to-humint-to-sigint-through-humint-part-1/", 
+    "document_topic": [
+      "SIDtoday"
+    ], 
+    "pub_date": "Sun, 15 May 2016 19:38:12 +0000", 
+    "article_links": [
+      "https://theintercept.com/2016/05/11/the-secret-nsa-diary-of-an-abu-ghraib-interrogator/"
+    ], 
+    "categories": [
+      "Revealed documents", 
+      "101st", 
+      "abu ghraib", 
+      "arabic", 
+      "camp st mere", 
+      "camp victory", 
+      "eric fair", 
+      "fallujah", 
+      "ied", 
+      "intelligence analysis intern", 
+      "interrogation", 
+      "interrogator", 
+      "iraq", 
+      "mosul", 
+      "nsa_orig", 
+      "sidtoday"
+    ], 
+    "title": "From SIGINT to HUMINT to SIGINT (through HUMINT) \u2013 part 1", 
+    "doc_text": "\ufeffDYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS\r\n\r\nTOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL\r\n\r\n(U//FOUO) From SIGINT to HUMINT to SIGINT (through HUMINT) --\r\npart 1\r\n\r\nFROM: Eric Fair\r\nIntelligence Analysis Intern\r\nRun Date: 03/10/2005\r\n\r\nHow a SIGINT'er became an interrogator in Iraq, and what he learned as a result. (S)\r\n\r\n(S) In December of 2003, just weeks into my first tour at the NSA and against the advice of a\r\nnumber of people, I resigned my position as an Intelligence Analyst and took a job as a\r\ncontractor in Iraq. Having watched my old unit, the 101st, take casualties in Mosul, I found\r\nmyself unable to resist the urge to be more closely involved in the conflict. My years as a police\r\nofficer, combined with my security clearance and some formal HUMINT training in the Army,\r\nopened the door for me to be hired on as one of the first few civilians assigned to Abu Ghraib\r\nprison as an interrogator. Though my only goal at the time was to get to Iraq, it turned out to\r\nbe an incredible introduction to the discipline of HUMINT that in turn would become a great tool\r\nfor me in my career with SIGINT.\r\n\r\n(S) Though much has been written and spoken about the dreadful conditions at Abu Ghraib,\r\nwhat became readily apparent to me as I looked out at the huge collection of Iraqi prisoners was\r\nthe vast goldmine of intelligence available to be gathered. It was an exciting realization for me\r\nthat the faceless voices I had listened to as a linguist in the Army were now standing in front of\r\nme in the flesh. It was a once in a lifetime opportunity for anyone in the intelligence field.\r\n\r\n(S) I had always been limited to gathering only the information a target would reveal in a\r\nconversation, searching for small clues and hints, never having the ability to pry deeper when a\r\ntarget seemed to have vital information. Now I would have the opportunity to get to know these\r\ntargets, ask them questions about their personal lives, gain a better understanding of who they\r\nwere, and actually design and tailor specific approaches for each individual. It was an\r\nopportunity never afforded to me in SIGINT and I was excited to get started.\r\n\r\n(S) The overwhelming number of detainees provided us an endless supply of interrogations to\r\nconduct. My interrogations lasted anywhere from 2 minutes to 2 hours and I conducted as many\r\nas I could in a day. The harder I worked, the quicker the days went by and the closer I got to\r\nhome. Though mortar, rocket and small arms attacks remained constant, the insurgency hadn't\r\nyet gathered full steam and the hope was to cut it off before it got worse. It was apparent\r\nhowever that we were bringing in more prisoners than we could process, and as the numbers\r\ngrew, so too did the ominous feeling that things were going downhill.\r\n\r\n(S) In early March of 2004, in an attempt to sort through the detainees more efficiently and\r\nprevent Abu Ghraib from becoming overcrowded, I began traveling between Abu Ghraib and\r\nCamp St. Mere in Fallujah in order to set up a Division level interrogation facility with the 82nd\r\nAirborne (ABN). Because the numbers at the facility in Fallujah were more manageable, I was\r\nable to spend more time with fewer detainees. I focused on building relationships and found that\r\nI would get favorable reactions when I attempted to use my rusty Arabic skills. Detainees found\r\nthemselves laughing at my terrible accent and limited Iraqi vocabulary and it became a great\r\ntool for me to break the tension and open doors.\r\n\r\n(S) Gathering actual intelligence in the interrogations was not easy, and there were far more\r\nfailure than success stories. Most detainees were scared and apprehensive, and it was all I could\r\ndo to get them talking about basic biographical information let alone their knowledge of the\r\ninsurgency. When the success stories would come, it was often because the detainee was tired\r\nand worn out from his ordeal and hoped to gain something by providing information.\r\n\r\n(S) My most successful interrogation was with a man who sat down in my interrogation booth,\r\nasked for a cigarette and something sweet, and without provocation spent the next 3 days with\r\n\r\nme naming names, locating weapon caches, cataloging groups involved in attacks, and providing\r\nspecific information about future operations. I began to realize that the collection of HUMINT\r\ncould be just as frustrating as the collection of SIGINT. As with SIGINT, there were a variety of\r\napproaches I could use and a number of tools at my disposal, but if the target chose not to\r\ncooperate, there was only so much I could accomplish.\r\n\r\n(S) As my Arabic and interviewing skills improved, and as more and more contractors resigned\r\ntheir positions and headed home, a number of doors opened up for me in Iraq. After surviving\r\nthe uprising in Fallujah in April, and the increasing number of IED* attacks on the road between\r\nCamp St. Mere and Abu Ghraib, I was transferred back to Baghdad to work the front gates of\r\nCamp Victory. My job there was less about interrogations and more about getting to know all the\r\nworkers who lined up outside every day to come on base and work for the coalition. I looked to\r\nmake friends by handing out cigarettes and chocolate and in return got help identifying\r\nstrangers in the community who warranted closer attention.\r\n\r\n(S) I spent my final two months in Iraq getting to know Iraqis. I learned about their lives under\r\nSaddam, their experiences in the Iran-Iraq war, their views of Sunni, Shia, Christian, Kurd and\r\nJew, their lives now with and without electricity, and their cautious hope for the changeover and\r\nelection that was to come. I learned the difference between the privilege and the hardship that\r\nmembership in the Baath party offered, the lure of a few dollars to risk working with Americans,\r\nthe variety of sermons in the thousands of mosques, and the motivation behind placing a bomb\r\non the street for a few hundred American dollars.\r\n\r\n(S) The countless hours I spent outside the gates talking with Iraqis from a variety of\r\nbackgrounds became the most valuable experience of my life. But as the number of close calls\r\ncontinued to rise, and as I found myself missing my wife more and more, I decided in June of\r\n2004 that six months in Iraq had been enough and it was time to come home.\r\n\r\n(U) Read the conclusion of this article tomorrow!\r\n\r\n(U) Note:\r\n\r\n(u) IED = Improvised explosive device\r\n\r\n\"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet\r\nwithout the consent of S0121 (DL sid comms).\"\r\n\r\nDYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS\r\nTOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL\r\nDERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108", 
+    "pdf": [
+      "https://edwardsnowden.com/wp-content/uploads/2016/05/2005-03-10-SIDToday-From-SIGINT-to-HUMINT-to.pdf"
+    ]
+  }, 
+  {
+    "released_date": "20130621", 
+    "overall_handling_caveats": [], 
+    "id": "20130621|accesstothefuture", 
+    "document_date": "0000-00-00 00:00:00", 
+    "codewords": [
+      "TEMPORA"
+    ], 
+    "agency": [
+      "GCHQ"
+    ], 
+    "sub_paragraphs_classifications": [
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": null, 
+        "paragraph_text": "conclusion ", 
+        "paragraph_relto": []
+      }, 
+      {
+        "paragraph_handling_caveats": [], 
+        "paragraph_classification": "Top Secret", 
+        "paragraph_text": "top secret strap1 you are in a privileged position  repay that trust, o you have ready access to a lot of sensitive data, o understand your legal obligations  dont become a case study in a future legalities training presentation, o if you have legal or ethical concerns, speak to someone: they will be taken seriously. 9 you are in an enviable position  have fun and make the most of it. ", 
+        "paragraph_relto": []
+      }
+    ], 
+    "pdf_paths": [
+      "Access-to-the-future-2-006.jpg"
+    ], 
+    "overall_classification": null, 
+    "description": "This concluding slide from an undated GCHQ presentation on Tempora reminds analysts that they are in a \u201cenviable\u201d and \u201cprivileged\u201d position \u2013 \u201cyou have access to a lot of sensitive data\u2026 have fun and make the most of it\u201d: see the Guardian article Mastering the internet: how GCHQ set out to spy on the world [\u2026]", 
+    "plain_text": "\ufeffConclusion\r\n\r\nTOP SECRET STRAP1\r\n\r\n\u00ae You are in a privileged position \u2014 repay that trust,\r\no You have ready access to a lot of sensitive data,\r\no Understand your legal obligations \u2014 don\u2019t become a case\r\nstudy in a future legalities training presentation,\r\no If you have legal or ethical concerns, speak to someone: they\r\nwill be taken seriously.\r\n\r\n9 You are in an enviable position \u2014 have fun and make the\r\nmost of it.", 
+    "sigads": [], 
+    "overall_relto": [], 
+    "countries_mentioned": [], 
+    "link": "https://edwardsnowden.com/2016/05/01/access-to-the-future/", 
+    "document_topic": [
+      "Internet Metadata", 
+      "Internet Content"
+    ], 
+    "pub_date": "Sun, 01 May 2016 15:26:06 +0000", 
+    "article_links": [
+      "http://www.theguardian.com/uk/2013/jun/21/gchq-mastering-the-internet"
+    ], 
+    "categories": [
+      "Revealed documents", 
+      "gchq_orig", 
+      "internet_content", 
+      "internet_metadata", 
+      "mastering the internet", 
+      "mti", 
+      "tempora"
+    ], 
+    "title": "Access to the future", 
+    "doc_text": "\ufeffConclusion\r\n\r\nTOP SECRET STRAP1\r\n\r\n\u00ae You are in a privileged position \u2014 repay that trust,\r\no You have ready access to a lot of sensitive data,\r\no Understand your legal obligations \u2014 don\u2019t become a case\r\nstudy in a future legalities training presentation,\r\no If you have legal or ethical concerns, speak to someone: they\r\nwill be taken seriously.\r\n\r\n9 You are in an enviable position \u2014 have fun and make the\r\nmost of it.", 
+    "pdf": [
+      "https://edwardsnowden.com/wp-content/uploads/2013/10/Access-to-the-future-2-006.jpg"
+    ]
+  }
+]
